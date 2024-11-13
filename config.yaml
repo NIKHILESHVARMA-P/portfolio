@@ -1,6 +1,6 @@
 baseURL: "https://arkalim.netlify.app"
 languageCode: en-us
-title: Abdur Rahman
+title: Nikhilesh Varma Penmesta
 theme: PaperMod
 
 menu:
@@ -9,9 +9,9 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /blog
+    - identifier: education
+      name: Education
+      url: /education
       weight: 20
     - identifier: projects
       name: Projects
@@ -48,11 +48,11 @@ params:
   # Home Page
   profileMode:
     enabled: true
-    title: "Abdur Rahman"
-    subtitle: Hi 👋 I'm Abdur, a tech enthusiast who loves solving complex problems. As a Software Developer in the Backend Infrastructure team at [**Clio**](https://www.clio.com), I'm building robust systems to transform the legal experience for all. By evening, you can find me pushing the limits of my strength at the gym or whipping up my favorite recipe in the kitchen. Let's connect and create something awesome together!
+    title: "Nikhilesh Varma Penmesta"
+    subtitle: Hi There 👋  I’m Nikhilesh, a passionate Data Analyst with 3 years of experience in Data Engineering and Analytics. I specialize in designing and optimizing ETL pipelines, developing data models, and using tools like Python, SQL, Tableau, and AWS to transform complex data into actionable insights. My work has improved business processes, enhanced decision-making, and boosted system performance. I excel in collaborating with cross-functional teams, automating workflows, and applying machine learning models to drive business growth. Driven by a curiosity for technology, I’m committed to leveraging data to solve real-world problems and continuously explore innovative solutions.
 
  
-    imageUrl: "home/casual-small-square.jpeg"
+    imageUrl: "home/nikhilesh-formal-photo.jpeg"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -69,13 +69,11 @@ params:
 
   socialIcons:
     - name: "email"
-      url: "mailto:abdur.rahman.kalim@gmail.com"
+      url: "mailto:nikhileshvarmapenmesta@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/abdurrahmankalim"
+      url: "https://www.linkedin.com/in/nikhilesh-penmesta/"
     - name: "github"
-      url: "https://github.com/arkalim"
-    - name: "youtube"
-      url: "https://www.youtube.com/c/AbdurRahmanKalim"
+      url: "https://github.com/857264999"
 
   # text search
   fuseOpts:

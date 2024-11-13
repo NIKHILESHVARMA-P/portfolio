@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Educations on Nikhilesh Varma Penmesta</title>
+    <link>http://localhost:1313/education/</link>
+    <description>Recent content in Educations on Nikhilesh Varma Penmesta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Masters in Data Analytics and Project Management</title>
+      <link>http://localhost:1313/education/masters_iwu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/education/masters_iwu/</guid>
+      <description>Indiana Wesleyan University (Merrillville, Indiana)</description>
+    </item>
+    
+    <item>
+      <title>Bachelor of Technology in Chemical Engineering</title>
+      <link>http://localhost:1313/education/bachelors_bvrit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/education/bachelors_bvrit/</guid>
+      <description>B.V Raju Institute Of Technology (Narsapur, Hyderabad, India)</description>
+    </item>
+    
+  </channel>
+</rss>

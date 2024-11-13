@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Nikhilesh Varma Penmesta</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Nikhilesh Varma Penmesta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interactive Tableau Dashboard for Real Estate Data Visualization</title>
+      <link>http://localhost:1313/projects/realestate-data-visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/realestate-data-visualization/</guid>
+      <description>A custom GitHub Action to publish Obsidian notes as a website</description>
+    </item>
+
+    <item>
+      <title>Real-time Data Streaming Pipeline with Apache Stack</title>
+      <link>http://localhost:1313/projects/data-streaming-pipeline-apache/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/data-streaming-pipeline-apache/</guid>
+      <description>Built an end-to-end data engineering pipeline using Apache Airflow, Kafka, Spark, and Cassandra for efficient data streaming and management.</description>
+    </item>
+
+    <item>
+      <title>Sales Insight Dashboard with PowerBI</title>
+      <link>http://localhost:1313/projects/sales-insight-dashboard-powerbi/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/sales-insight-dashboard-powerbi/</guid>
+      <description>PowerBI dashboard built for AtliQ hardware, providing insights on sales trends, revenue performance, and market analysis.</description>
+    </item>
+
+    <item>
+      <title>YouTube Data Analysis</title>
+      <link>http://localhost:1313/projects/youtube-data-analysis/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/youtube-data-analysis/</guid>
+      <description>Analyzed YouTube trends using AWS services like S3, Glue, and QuickSight to derive insights on video popularity across different regions.</description>
+    </item>
+    
+  </channel>
+</rss>
